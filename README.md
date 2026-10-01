@@ -1,2 +1,4 @@
-# jsonnabend_225a
-BMS 225A coursework — Fall 2026
+# Jonah Sonnabend
+
+This repository contains my coursework for BMS 225A:
+Biostatistics and Computational Biology, Fall 2026.
